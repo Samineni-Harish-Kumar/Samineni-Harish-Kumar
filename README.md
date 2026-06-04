@@ -52,7 +52,7 @@
  
 <br><br><br><br>
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
 </p>
 <br>
@@ -61,7 +61,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
  </a>
-</p>
+</p> -->
 
 
 [linkedin]: https://www.linkedin.com/in/harish-kumar-samineni/
