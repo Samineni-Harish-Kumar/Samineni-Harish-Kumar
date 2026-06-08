@@ -11,8 +11,7 @@
 - 📫 How to reach me 2401600131mca@gmail.com
 - 📝 I studied at KL University College 
 - 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+  
 <br><br><br><br>
 
 <p align="center">
