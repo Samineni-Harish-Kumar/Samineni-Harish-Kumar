@@ -6,10 +6,10 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-- 🌱 &nbsp;I completed MCa From KL University, Vijayawada
+- 🌱 &nbsp;I completed MCA From KL University, Vijayawada
 - :computer: &nbsp;Connect with me on LinkedIn Samineni Harish Kumar
 - 📫 How to reach me 2401600131mca@gmail.com
-- 📝 I studied at KL University College 
+- 📝 I studied at KL University. 
 - 💬 Ask me about: anything, I am happy to help
   
 <br><br><br><br>
